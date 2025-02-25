@@ -2,13 +2,13 @@
 // const friends = ["Mango", "Orange", "Kiwi"];
 // let elem = "";
 
-// for
+// // for
 // for (let i = 0; i < friends.length; i++) {
 //   elem += `${friends[i]},
 //    `;
 // }
 
-// join
+// // join
 // const elem = friends.join(",");
 
 // console.log(elem);
@@ -40,8 +40,8 @@ const cards = [
 
 // 2.3
 
-const cardToUpdate = "Карточка-4";
-const cardUpdate = cards.indexOf(cardToUpdate);
-cards.splice(cardUpdate, 1, "Нова карточка-4");
+// const cardToUpdate = "Карточка-4";
+// const cardUpdate = cards.indexOf(cardToUpdate);
+// cards.splice(cardUpdate, 1, "Нова карточка-4");
 
-console.log(cards);
+// console.log(cards);
